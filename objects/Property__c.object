@@ -166,4 +166,13 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <compactLayouts>
+        <fullName>Property_Compact_Layout</fullName>
+        <fields>Name</fields>
+        <fields>City__c</fields>
+        <fields>Price__c</fields>
+        <fields>Beds__c</fields>
+        <fields>Baths__c</fields>
+        <label>Property Compact Layout</label>
+    </compactLayouts>
 </CustomObject>
